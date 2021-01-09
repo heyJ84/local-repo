@@ -1,3 +1,3 @@
-# Locally Created Repository
+# Locally Initialized Repository
 
-This was created locally.
+This was initialized locally.
